@@ -1,0 +1,6 @@
+com\example\microservices\VaccinationCenter\controllers\VaccinationCenterController.class
+com\example\microservices\VaccinationCenter\Model\Citizen.class
+com\example\microservices\VaccinationCenter\VaccinationCenterApplication.class
+com\example\microservices\VaccinationCenter\Repos\CenterRepo.class
+com\example\microservices\VaccinationCenter\Model\RequiredResponse.class
+com\example\microservices\VaccinationCenter\Entity\VaccinationCenter.class
